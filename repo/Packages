@@ -3,7 +3,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: frk2z <fr.k2z.dev@outlook.fr>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/No LockScreen Date.deb
+Filename: debs/No_LockScreen_Date.deb
 Size: 4550
 MD5sum: de9db229f81a2bc89c93866fb52c6984
 SHA1: 22b462d98fafcdc27db7afe66faf47e1f86d734b
@@ -35,7 +35,7 @@ Package: fr.k2z.respringapp
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: frk2z <fr.k2z.dev@outlook.fr>
-Filename: debs/Respring App.deb
+Filename: debs/Respring_App.deb
 Size: 39898
 MD5sum: 728fa6f8dcd2bc679cdbfe4ad7b070cd
 SHA1: ae131b3a85d077cce09f172397f396997cd80aab

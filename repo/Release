@@ -1,0 +1,9 @@
+Origin: frk2z
+Label: frk2z's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: frk2z's public Cydia repo (@FrK2z)
+Icon: http://frk2z.github.io/repo/icon.png

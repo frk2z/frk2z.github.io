@@ -1,0 +1,30 @@
+body {
+    font-family: arial;
+    color: white;
+    background-color: #131313;
+    text-align: center;
+}
+            
+h1, h2, h3 {
+    background-color: #0098F8;
+}
+            
+p {
+    background-color: #1d1d1d;
+}
+            
+a {
+    text-decoration: none;
+}
+            
+a:link {
+    color: #0098F8;
+}
+            
+a:visited {
+    color: #8750ed;
+}
+            
+a:hover {
+    color: #45b7ff;
+}

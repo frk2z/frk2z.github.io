@@ -1,0 +1,48 @@
+Package: fr.k2z.NoLockScreenDate
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: frk2z <fr.k2z.dev@outlook.fr>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/No LockScreen Date.deb
+Size: 4550
+MD5sum: de9db229f81a2bc89c93866fb52c6984
+SHA1: 22b462d98fafcdc27db7afe66faf47e1f86d734b
+SHA256: e19eb756f64adeff049bbbd2d8b1d29b500215cd7110019785150d77ccb03667
+Section: Tweaks
+Priority: optional
+Description: Remove the date from the LockScreen
+Author: frk2z <fr.k2z.dev@outlook.fr>
+Name: No LockScreen Date
+
+Package: fr.k2z.flashcommand
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: frk2z <fr.k2z.dev@outlook.fr>
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
+Conflicts: fr.k2z.flashcommand
+Filename: debs/FlashCommand.deb
+Size: 36234
+MD5sum: c4309fe2a80f14c11f3a616742204c0a
+SHA1: 6c3145a88ed8247a397067902126c679dc6e3786
+SHA256: c6150f83437c786297c56e6a62d03f81ed01aef16c0d5ba2e9df3b9870aa0d39
+Section: Tweaks
+Priority: optional
+Description: Execute a command instead of making a screenshot
+Author: frk2z <fr.k2z.dev@outlook.fr>
+Name: FlashCommand
+
+Package: fr.k2z.respringapp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: frk2z <fr.k2z.dev@outlook.fr>
+Filename: debs/Respring App.deb
+Size: 39898
+MD5sum: 728fa6f8dcd2bc679cdbfe4ad7b070cd
+SHA1: ae131b3a85d077cce09f172397f396997cd80aab
+SHA256: 560ca9f7c5f50130c612aeb631ac2ec6b5024f4f82d553e99de423b5c82e44e3
+Section: Utilities
+Description: Respring !
+Author: frk2z <fr.k2z.dev@outlook.fr>
+Icon: file:///Applications/RespringApp.app/icon.png
+Name: Respring App
+
